@@ -7,7 +7,7 @@ import java.net.URI;
 
 /**
  *
- * @author Gabriel Fernandez (000236557)
+ * @author DarkOvs77
  */
 public class Gauss extends javax.swing.JFrame {
 
